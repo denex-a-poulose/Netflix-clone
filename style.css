@@ -17,7 +17,7 @@
 
 .banner {
   position: relative;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/IN-en-20230515-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("Images/IN-en-20230515-popsignuptwoweeks-perspective_alpha_website_large.jpg");
   width: 100%;
   height: 120vh;
 
@@ -561,7 +561,7 @@ input[type="radio"] {
 
   .banner {
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/IN-en-20230515-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("Images/IN-en-20230515-popsignuptwoweeks-perspective_alpha_website_large.jpg");
     width: 100%;
     height: 600px;
     background-size: cover;
@@ -731,7 +731,7 @@ input[type="radio"] {
     position: absolute;
     top: 55px;
     right: 50px;
-    width: 253px;
+    width: 233px;
   }
 
 
